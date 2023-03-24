@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513457801867",
+    "project_id": "music-player-68eab",
+    "storage_bucket": "music-player-68eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513457801867:android:0d88e7e3d8e8145ee7e28e",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513457801867-v4rls04k0k3u0iai7o7bdsdk65nm3imd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXhnzpWXCLB_f2JmOP6A2_H1AaEfDTY-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513457801867-v4rls04k0k3u0iai7o7bdsdk65nm3imd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
